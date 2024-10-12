@@ -1,0 +1,14 @@
+{
+  "name": "tokyo.chigiri.polygonmate",
+  "displayName": "PolygonMate",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Chigiri's Unity 3D model tweaking utilities",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "Chigiri Tsutsumi",
+    "email": "chigirits@gmail.com",
+    "url": "https://chigiri.tokyo"
+  },
+  "license": "MIT"
+}

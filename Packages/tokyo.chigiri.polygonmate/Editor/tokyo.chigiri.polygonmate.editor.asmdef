@@ -1,5 +1,5 @@
 {
-    "name": "VRChatPackageTemplate.Editor",
+    "name": "tokyo.chigiri.polygonmate.editor",
     "references": [],
     "includePlatforms": [
         "Editor"
